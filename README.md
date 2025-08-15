@@ -2,7 +2,7 @@
 
 <p align="left">
   <em>
-    A focused learner exploring the intersection of <strong>Computer Science</strong> and <strong>Biology</strong>. Currently building skills in <strong>CSE Fundamentals</strong> with future goals in <strong>Biotech Innovation</strong> <strong>AI applications in Biology</strong> and <strong>Data-driven research</strong>
+    A focused learner exploring the intersection of <strong>Computer Science</strong> and <strong>Biology</strong>. Currently building skills in <strong>CSE Fundamentals</strong> with future goals in <strong>Biotech Innovation</strong>, <strong>AI applications in Biology</strong> and <strong>Data-driven research</strong>
   </em>
 </p>
 
