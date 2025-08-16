@@ -20,7 +20,7 @@
 🎓 I'm currently studying at **Bangladesh University of Business and Technology (BUBT)**. My core interests lie in:
 - Artificial Intelligence & Machine Learning
 - Deep Learning for medical and biological application
-- Biotechnology and bioinforma
+- Biotechnology and bioinformatics
 - Research in Computer Vision and AI-driven life sciences
 
 ---
